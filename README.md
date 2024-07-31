@@ -10,5 +10,5 @@ pneumonia, a serious lung infection. This is what deep learning, a type of artif
 
 ### Dataset
 Link- https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
-### Deployment (It may not working Now....)
+### Deployment (link is not working Now....)
 Link- http://54.145.85.162:8080/
